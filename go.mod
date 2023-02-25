@@ -25,8 +25,8 @@ require (
 	github.com/json-iterator/go v1.1.5 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 // indirect
-	github.com/onsi/ginkgo v1.8.0
-	github.com/onsi/gomega v1.5.0
+	github.com/onsi/ginkgo v1.8.0 // indirect
+	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/operator-framework/operator-sdk v0.0.7
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pkg/errors v0.8.0
@@ -41,7 +41,7 @@ require (
 	github.com/vishvananda/netlink v1.0.0
 	github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc // indirect
 	golang.org/x/net v0.0.0-20190311183353-d8887717615a
-	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+	golang.org/x/sys v0.1.0
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/grpc v1.23.1
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
